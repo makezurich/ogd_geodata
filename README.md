@@ -25,3 +25,12 @@ Actually, I couldn't find a complete **network** dataseta of all existing **path
 
 
 
+## Background Maps (WMS):
+
+- **Canton Zürich**:
+    - Übersichtsplan (WMS): http://wms.zh.ch/upwms
+    - Orthofotos (WMS): http://wms.zh.ch/OrthoZHWMS?
+
+- **City of Zurich**:
+    - All openly available [Basemaps](https://data.stadt-zuerich.ch/dataset?q=basiskarte&sort=score+desc%2C+date_last_modified+desc&)
+
