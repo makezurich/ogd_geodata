@@ -4,7 +4,7 @@
 
 ## Geodata for the **City-Forest-Challenge**:
 
-- **Forest Area of the Canton Zürich: *[ktzh_forestarea_groundcover_a.zip](https://github.com/make-zurich/ogd_geodata/blob/master/ktzh_forestarea_groundcover_a.zip)*
+- **Forest Area of the Canton Zürich:** *[ktzh_forestarea_groundcover_a.zip](https://github.com/make-zurich/ogd_geodata/blob/master/ktzh_forestarea_groundcover_a.zip)*
 
 Actually, I couldn't find a complete **network** dataseta of all existing **pathes** within the forests. So, there are actually two different data sources:
 
