@@ -26,6 +26,8 @@ Actually, I couldn't find a complete **network** dataseta of all existing **path
 
 
 ## Background Maps (WMS):
+WMS (Web Map Service) and WMTS (Web Map Tile Service) are interfaces for retrieving geodata as raster data. With the WMTS the cards are divided into pre-generated "tiles" or "tiles". An image is loaded significantly faster by a WMTS service than by a WMS service.
+If you've never worked with wms/wmts before, just check these simple Intros on how to use them (sorry in German only): https://www.stadt-zuerich.ch/portal/de/index/ogd/werkstatt/wms_wmts.html . Of course, you'll find a lot of other descriptions on the web ;)
 
 - **Canton Zürich**:
     - Übersichtsplan (WMS): http://wms.zh.ch/upwms
